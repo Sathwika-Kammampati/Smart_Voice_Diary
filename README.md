@@ -94,6 +94,23 @@ python src/main.py
 ```
 
 ---
+## Screenshots
+
+### Architecture
+
+![Architecture](Screenshots/architecture.jpg)
+
+### Home
+
+![Home](Screenshots/home.png)
+
+### Voice Recognition
+
+![Speaking](Screenshots/speaking.png)
+
+### Output
+
+![Output](Screenshots/output.png)
 
 ## Future Improvements
 
