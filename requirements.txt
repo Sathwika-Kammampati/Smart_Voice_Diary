@@ -1,0 +1,7 @@
+vosk
+SpeechRecognition
+PyAudio
+pyttsx3
+nltk
+numpy
+pandas
